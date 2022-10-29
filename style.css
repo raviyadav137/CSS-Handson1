@@ -1,0 +1,31 @@
+h1{
+    color:red;
+}
+h2{
+    color:red;
+    font-style: italic;
+}
+#text1{
+    color:brown;
+}
+.p2{
+    color:brown;
+    letter-spacing:3px;
+}
+.a{
+    text-decoration: line-through;
+}
+.b
+{
+    background-color: yellow;
+}
+p{
+    color:brown;
+}
+a{
+    color:red;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: yellow;
+}
